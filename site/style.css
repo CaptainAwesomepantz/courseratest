@@ -1,0 +1,38 @@
+     body {
+       background-color: lightslategray;
+       font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+       color: orange;
+       font-size: 16px;
+       text-transform: uppercase;
+    }p {
+        color: orange;
+        font-size: 20px;
+        width: 1900px;
+      }
+      h1{
+        color: blue;
+        font-size: 36px;
+        text-align: left;
+      }
+      h2{
+        color: rgba(255, 255, 0, 0.281);
+        font-size: 32px;
+        text-align: left;
+      }
+      .foodlist{
+        color: maroon;
+        font-weight: bold;
+      }
+      ul {
+            color: black;
+            list-style: none;
+      }
+      body li:nth-child(even):hover {
+        font-size: 60px;
+      }
+  #ingredients
+  {
+      padding: 10px, green;
+      box-sizing: border-box;
+      border: 2 px, dashed, darkgray;
+  }
